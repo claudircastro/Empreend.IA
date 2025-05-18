@@ -32,6 +32,9 @@ Com linguagem simples e empática, ele atua como um copiloto que ajuda você a:
 | **Linguagem simples e direta** | Aqui é papo reto, como um parceiro de negócio |
 | **Informações sempre atualizadas** | Com busca via Google integrada pela API do Gemini |
 
+
+## ✨Acesse:
+
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oridimonaco/empreend-ai/blob/main/Empreend_IA_1.ipynb)
 
 ---

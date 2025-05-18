@@ -21,17 +21,28 @@ Com linguagem simples e empática, ele atua como um copiloto que ajuda você a:
 
 ---
 
+## 👥 Para quem é?
+
+Feito para empreendedores e autônomos que:
+
+- Tocam tudo sozinhos ou com equipes pequenas
+- Não têm tempo para aprender ferramentas complicadas ou estudar engenharia de prompt
+- Querem usar IA de forma prática, direta e útil no dia a dia
+
+---
+
 ## 💡 Por que ele é diferente?
 
 | 💎 Funcionalidade | 🔥 Impacto real |
 |------------------|-----------------------------|
 | **Perfil adaptado** | O agente entende seu negócio, seu estilo e suas metas — e adapta tudo a isso |
 | **Planejamento estratégico realista** | Você recebe um plano de ação que cabe na sua rotina |
-| **Sugestões de produtividade sob medida** | Time-blocking, GTD, listas, Kanban — no estilo que funciona pra você |
+| **Sugestões de produtividade sob medida** | Time-blocking, GTD, listas, Kanban — métodos no estilo que funciona pra você  |
 | **Linguagem simples e direta** | Aqui é papo reto, como um parceiro de negócio |
 | **Informações sempre atualizadas** | Com busca via Google integrada pela API do Gemini |
 
-
+* Os métodos de produtividade utilizados — como Kanban, Iby Lee e outros — são baseados em pesquisas reconhecidas e metodologias comprovadas, aplicadas de forma prática para impulsionar resultados reais no dia a dia empreendedor.
+  
 ## ✨Acesse:
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oridimonaco/Empreend.IA/blob/main/Empreend_IA_1.ipynb)
@@ -88,68 +99,58 @@ Empreend.AI sugere o uso do **Kanban**, onde Carla pode visualizar as tarefas de
 |                          | Preparar pacotes para envio           |
 | **✅ Feito**                | Pedidos enviados                       |
 |                          | Anúncios agendados                     |
----
 
 Esses exemplos mostram como o **Empreend.AI** pode ajudar a organizar e otimizar a rotina de diferentes tipos de empreendedores com base nas suas necessidades específicas e métodos de produtividade preferidos.
 ✨Teste você mesma(o):
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oridimonaco/Empreend.IA/blob/main/Empreend_IA_1.ipynb)
+---
+## 🚀 Diferenciais
+
+| 💡 Diferencial | ✨ Como é feito |
+|----------------|----------------|
+| Respostas atualizadas | Com uso da ferramenta `google_search` da Gemini API |
+| Personalização profunda | Perfil criado com entrevista opcional |
+| Tom de voz adaptado | Comunicação motivadora, direta ou técnica conforme o perfil |
+| Acessível para leigos | Nenhuma engenharia de prompt é necessária do lado do usuário |
+| Pronto para escalar | Fácil de integrar com planilhas, agenda, API externa futuramente |
 
 ---
-## 🛠️ Como funciona?
+## 🛠️ Melhoria Contínua e Inovações Futuras
 
-- Executado no **Google Colab**, sem instalação
-- Interface via terminal com chat contínuo
-- Memória de perfil personalizada
-- Totalmente em **Python puro**
-- Usa o **Google Gemini 2.0** e integração com **Google Search Tool**
+O **Empreend.AI** está em constante evolução. Abaixo, você confere algumas das próximas **melhorias planejadas** e **novidades em desenvolvimento** que vão ampliar ainda mais o alcance e a inteligência do agente:
+
+### 1. **Diagnóstico Empresarial Inteligente**
+- **O que vem por aí**: Um agente com foco em **análise e consultoria automatizada**.  
+- **Na prática**: A partir de dados sobre as diferentes áreas da empresa, o Empreend.AI vai apontar oportunidades de melhoria e gargalos a resolver — funcionando como um parceiro estratégico na gestão.
+
+### 2. **Agente de Gestão Financeira**
+- **O que vem por aí**: Um módulo especializado em **finanças para pequenos e médios negócios**.  
+- **Na prática**: Vai te ajudar com **precificação**, **fluxo de caixa**, **ponto de equilíbrio** e muito mais — considerando o perfil fiscal do seu negócio e oferecendo sugestões estratégicas para manter as contas no azul (e no controle).
+
+### 3. **Ferramenta de Análise de Markup**
+- **O que vem por aí**: Um recurso que te apoia no cálculo do **markup ideal** para seus produtos e serviços.  
+- **Na prática**: Vai levar em conta custos fixos, variáveis e margem de lucro desejada, entregando uma análise clara para decisões mais acertadas na hora de formar preços.
+
+### 4. **Integração com Google Drive e outras plataformas**
+- **O que vem por aí**: Acesso direto a arquivos do Google Drive, Dropbox, OneDrive e outras ferramentas que você já usa no dia a dia.  
+- **Na prática**: Você poderá consultar documentos, planilhas e dados importantes sem sair da interface do Empreend.AI — tudo em um só lugar, com fluidez e agilidade.
 
 ---
 
-## 👥 Para quem é?
+Com essas e outras melhorias, o **Empreend.AI** quer ser mais que uma ferramenta: quer ser seu **parceiro digital na jornada empreendedora**. Da organização do dia a dia às decisões mais estratégicas, o agente está aqui para somar — com inteligência, leveza e propósito.
 
-Feito para empreendedores e autônomos que:
-
-- Tocam tudo sozinhos ou com equipes pequenas
-- Não têm tempo para aprender ferramentas complicadas
-- Querem usar IA de forma prática, direta e útil no dia a dia
-
+Se curtir o projeto, deixa um ⭐ por aqui e compartilha com outras pessoas que também querem empreender com mais apoio e clareza!
 ---
-
 ## 🧠 Tecnologias utilizadas
 
 - `Google Generative AI (Gemini 2.0)`
 - `Google Search Tool`
 - `google-adk` (estruturação de agentes)
 - `Python` no ambiente Google Colab
-
----
-
-## 🚀 Diferenciais
-
-| 💡 Diferencial | ✨ Como é feito |
-|----------------|----------------|
-| Respostas atualizadas | Com uso da ferramenta `google_search` da Gemini API |
-| Personalização profunda | Perfil criado com entrevista: segmento, tipo de negócio, objetivo e estilo |
-| Tom de voz adaptado | Comunicação motivadora, direta ou técnica conforme o perfil |
-| Planejamento realista | Divide tarefas por dia ou tipo de organização |
-| Acessível para leigos | Nenhuma engenharia de prompt é necessária do lado do usuário |
-| Pronto para escalar | Fácil de integrar com planilhas, agenda, API externa futuramente |
-
----
-
-## 📌 Por que usar?
-
-Porque **IA pode (e deve) ser útil de verdade** — até para quem nunca usou.
-
----
-
-## 🗳️ Sobre o projeto
-
+  
 Este projeto foi desenvolvido na **Imersão IA 2025 (Alura + Google Gemini)**.  
 Se você curtiu, ⭐ o repositório e compartilha com quem empreende!
-
 ---
-
 ## 📣 Indique para quem precisa
 
 Se você conhece alguém que:

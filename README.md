@@ -5,8 +5,6 @@ Não é por falta de esforço — é por falta de organização, planejamento e 
 
 O **Empreend.AI** nasceu pra virar esse jogo: um agente de IA feito sob medida para quem empreende sozinho e precisa de uma força no dia a dia.
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oridimonaco/Empreend.IA/blob/main/Empreend_IA_1.ipynb)
-
 
 ## 🚀 O que é o Empreend.AI?
 
@@ -39,7 +37,64 @@ Com linguagem simples e empática, ele atua como um copiloto que ajuda você a:
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oridimonaco/Empreend.IA/blob/main/Empreend_IA_1.ipynb)
 
 ---
+## Como o Empreend.AI pode ajudar diferentes perfis de empreendedores?
 
+Veja como o **Empreend.AI** se adapta a diferentes tipos de negócios e métodos de produtividade:
+
+###  👗 Exemplo 1: Maria - Proprietária de Loja Física (Produto)
+
+| **Segmento**            | Varejo de roupas                           |
+|-------------------------|--------------------------------------------|
+| **Tipo de Negócio**     | Físico                                     |
+| **Objetivo**            | Vender mais                                |
+| **Método de Produtividade** | **Ivy Lee** (Time Blocking)             |
+
+**Entrada**:  
+"Preciso organizar meu dia para vender mais na loja."
+
+**Saída**:  
+O Empreend.AI sugere o **método Ivy Lee**, ajudando Maria a priorizar **6 tarefas essenciais** para o dia, organizadas em blocos de tempo.
+
+| **Plano do Dia**         | **Atividades**                         |
+|--------------------------|----------------------------------------|
+| 08:00 - 10:00            | Reposição de estoque                   |
+| 10:00 - 12:00            | Atendimento ao cliente                 |
+| 13:00 - 15:00            | Organização do visual merchandising    |
+| 15:00 - 17:00            | Planejamento de campanhas de redes sociais |
+| 17:00 - 18:00            | Conferência de vendas e estoque        |
+
+---
+
+### 👒 Exemplo 2: Carla - Dono de E-commerce (Online)A Fazer: 
+
+| **Segmento**            | E-commerce de acessórios                 |
+|-------------------------|-----------------------------------------|
+| **Tipo de Negócio**     | Online                                   |
+| **Objetivo**            | Automatizar processos e ganhar tempo     |
+| **Método de Produtividade** | **Kanban** (To-Do)                    |
+
+**Entrada**:  
+"Empreend.AI, me ajude a organizar minha rotina de trabalho e automatizar os processos."
+
+**Saída**:  
+Empreend.AI sugere o uso do **Kanban**, onde Carla pode visualizar as tarefas de sua loja online em colunas, como **"A Fazer"**, **"Fazendo"** e **"Feito"**.
+
+| **Plano do Dia**         | **Atividades**                         |
+|--------------------------|----------------------------------------|
+| **📦 A Fazer**              | Conferir pedidos do dia anterior       |
+|                          | Criar anúncios de produtos para redes sociais |
+|                          | Responder dúvidas de clientes via chat |
+| **🔄 Fazendo**              | Atualizar o estoque do site            |
+|                          | Preparar pacotes para envio           |
+| **✅ Feito**                | Pedidos enviados                       |
+|                          | Anúncios agendados                     |
+---
+
+Esses exemplos mostram como o **Empreend.AI** pode ajudar a organizar e otimizar a rotina de diferentes tipos de empreendedores com base nas suas necessidades específicas e métodos de produtividade preferidos.
+✨Teste você mesma(o):
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oridimonaco/Empreend.IA/blob/main/Empreend_IA_1.ipynb)
+
+---
 ## 🛠️ Como funciona?
 
 - Executado no **Google Colab**, sem instalação

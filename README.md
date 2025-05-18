@@ -5,7 +5,7 @@ Não é por falta de esforço — é por falta de organização, planejamento e 
 
 O **Empreend.AI** nasceu pra virar esse jogo: um agente de IA feito sob medida para quem empreende sozinho e precisa de uma força no dia a dia.
 
----
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oridimonaco/empreend-ai/blob/main/Empreend_IA_1.ipynb)
 
 ## 🚀 O que é o Empreend.AI?
 
@@ -31,6 +31,8 @@ Com linguagem simples e empática, ele atua como um copiloto que ajuda você a:
 | **Sugestões de produtividade sob medida** | Time-blocking, GTD, listas, Kanban — no estilo que funciona pra você |
 | **Linguagem simples e direta** | Aqui é papo reto, como um parceiro de negócio |
 | **Informações sempre atualizadas** | Com busca via Google integrada pela API do Gemini |
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oridimonaco/empreend-ai/blob/main/Empreend_IA_1.ipynb)
 
 ---
 
